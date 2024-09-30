@@ -1,0 +1,34 @@
+[
+  {
+    "nombre": "Cruzzi",
+    "fecha_creacion": "2021-09-01",
+    "canciones": [
+      {
+        "titulo": "Lo pues intentar",
+        "duracion": "3:00",
+        "artista": "Cruzzi"
+      },
+      {
+        "titulo": "Fabiola",
+        "duracion": "3:00",
+        "artista": "Cruzzi"
+      }
+    ]
+  },
+  {
+    "nombre": "Hoke",
+    "fecha_creacion": "2021-09-01",
+    "canciones": [
+      {
+        "titulo": "No puede ser",
+        "duracion": "3:00",
+        "artista": "Hoke"
+      },
+      {
+        "titulo": "jjjj",
+        "duracion": "3:00",
+        "artista": "Hoke"
+      }
+    ]
+  }
+]
