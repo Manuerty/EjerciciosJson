@@ -1,0 +1,70 @@
+[
+  {
+    "games": [
+      {
+        "name": "The Witcher 3: Wild Hunt",
+        "version": "1.0",
+        "description": "The Witcher 3 is an open-world role-playing game set in a stunning fantasy world. You control Geralt of Rivia, a monster hunter known as a witcher, as you navigate a vast continent full of mystery and danger.",
+        "languages available": [
+          "English",
+          "Spanish"
+        ],
+        "images": [
+          "https://example.com/rdr2_screenshot1.jpg",
+          "https://example.com/rdr2_screenshot2.jpg"
+        ],
+        "opinions": [
+          {
+            "user": "User1",
+            "comment": "Great game!"
+          },
+          {
+            "user": "User2",
+            "comment": "Great open world game!"
+          }
+        ]
+      },
+      {
+        "name": "Smite",
+        "version": "1.0",
+        "description": "Smite is a MOBA based on gods and their epics hystories",
+        "languages available": [
+          "English",
+          "Spanish"
+        ],
+        "images": [
+          "https://example.com/rdr2_screenshot1.jpg",
+          "https://example.com/rdr2_screenshot2.jpg"
+        ],
+        "opinions": [
+          {
+            "user": "User1",
+            "comment": "Great game!"
+          },
+          {
+            "user": "User3",
+            "comment": "Nerf Susanoo, so fking OP, idk how Hi-Rez allow that god to b in this game"
+          }
+        ]
+      }
+    ],
+    "users": [
+      {
+        "id": "0001",
+        "avatar":"https://example.com/avatars/cowboyup45.png",
+        "userName": "User1"
+      },
+      {
+        "id": "0002",
+        "avatar":"https://example.com/avatars/cowboyup45.png",
+        "userName": "User2"
+      },
+      {
+        "id": "0003",
+        "avatar":"https://example.com/avatars/cowboyup45.png",
+        "userName":  "User3"
+      }
+
+    ]
+  }
+]
