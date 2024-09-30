@@ -1,0 +1,41 @@
+{
+  "squadName": "Super hero squad",
+  "home_town": "Metro City",
+  "formed": 2022,
+  "secretBase": "Super tower",
+  "active": "true",
+  "members": [
+    {
+      "name": "Molecule Man",
+      "age": "29",
+      "secretIdentity": "Dan Jukes",
+      "powers": {
+        "power1": "Radiation resistance",
+        "power2": "Turning tiny",
+        "power3": "Radiation blast"
+      }
+    },
+    {
+      "name": "Madame Uppercut",
+      "age": "39",
+      "secretIdentity": "NULL",
+      "powers": {
+        "power1": "Million tonne punch",
+        "power2": "Damage resistance",
+        "power3": "Superhuman reflexes"
+      }
+    },
+    {
+      "name": "Eternal Flame",
+      "age": "1000000",
+      "secretIdentity": "Unknown",
+      "powers": {
+        "power1": "Immortality",
+        "power2": "Heat Immunity",
+        "power3": "Inferno",
+        "power4": "Teleportation",
+        "power5": "Interdimensional travel"
+      }
+    }
+  ]
+}
